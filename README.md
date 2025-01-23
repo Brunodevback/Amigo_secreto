@@ -34,7 +34,7 @@ Este projeto foi desenvolvido para praticar e consolidar os seguintes conceitos:
 3. Adicione os nomes na lista e clique no botão de sorteio para obter o resultado!
 
 ## Demonstração
-(assets/projeto..gif)
+(assets/projeto.gif)
 
 ---
 
