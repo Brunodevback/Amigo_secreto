@@ -37,7 +37,7 @@ function sortearAmigo(){
     } else {
     let pessoaAleatoria = Math.floor(Math.random() * amigos.length)
     let mensagemSorteado = document.getElementById('resultado')
-    mensagemSorteado.innerHTML = (`A pessoa sorteada foi ${amigos[pessoaAleatoria]}!`)
+    mensagemSorteado.innerHTML = (`O amigo secreto sorteado é: ${amigos[pessoaAleatoria]}!`)
     reiniciarJogo()
 }
 } 
